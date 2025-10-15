@@ -1,0 +1,6 @@
+
+
+File tersembunyi:
+.\.idea\.gitignore
+.\.venv\.gitignore
+
